@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  What does that mean?
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  For anyone who wants to know the definition of a word.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  The user enters a word and receives the definition of that word.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  This helps solve the problem of not knowing what a word means. 
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  The product is simple and allows people to find a definition quickly and easily. 
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  Get this app. 
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  All the user needs to do is enter a word they want to look up. 
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  "Super easy. Now I know what that word means."
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  Users should look up words with 'What does that mean?'
