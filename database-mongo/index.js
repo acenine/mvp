@@ -41,6 +41,3 @@ var selectWord = function(word, callback) {
 
 module.exports.addWord = addWord;
 module.exports.selectWord = selectWord;
-
-//when the def comes through from api, we put the word and def into the database. 
-//the

@@ -38,16 +38,15 @@ class App extends React.Component {
 
 
   render () {
-    return (<div>
-      <h1>What does that mean?</h1>
-      <h3>Enter a word to see its definition: </h3>
-      <Search getQueryDef={this.getQueryDef.bind(this)}/>
-      <WordInfo wordInfo={this.state.wordInfo}/>
-      
-    </div>)
+    return (
+      <div>
+        <h1>What does that mean?</h1>
+        <h3>Enter a word to see its definition: </h3>
+        <Search getQueryDef={this.getQueryDef.bind(this)}/>
+        <WordInfo wordInfo={this.state.wordInfo}/>
+      </div>
+    )
   }
 }
 
 ReactDOM.render(<App />, document.getElementById('app'));
-
-//when the data comes through, it must be put into the database then the get takes from the data base
